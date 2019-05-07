@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kasra/AP_Proj/HW4/Q2/main.cpp
+iostream
+-
+vector
+-
+memory
+-
+bits/unique_ptr.h
+-
+
