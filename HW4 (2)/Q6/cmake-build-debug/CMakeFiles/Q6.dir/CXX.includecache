@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kasra/AP_Proj/HW4/Q6/main.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+functional
+-
+set
+-
+
